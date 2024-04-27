@@ -1,0 +1,98 @@
+Исходный контейнер deque:
+Автор: Leo Nikolaevich Tolstoy
+Название:  War and Peace
+Издательство: Eksmo
+Год издания: 2010
+Количество страниц: 736
+
+Автор: Fyodor Mikhailovich Dostoevsky
+Название:  Crime and Punishment
+Издательство: ACT
+Год издания: 2021
+Количество страниц: 544
+
+Автор: Alexander Sergeevich Pushkin
+Название: Eugene Onegin
+Издательство: Myth
+Год издания: 2023
+Количество страниц: 288
+
+
+Исходный контейнер deque после сортировки:
+Автор: Fyodor Mikhailovich Dostoevsky
+Название:  Crime and Punishment
+Издательство: ACT
+Год издания: 2021
+Количество страниц: 544
+
+Автор: Alexander Sergeevich Pushkin
+Название: Eugene Onegin
+Издательство: Myth
+Год издания: 2023
+Количество страниц: 288
+
+Автор: Leo Nikolaevich Tolstoy
+Название:  War and Peace
+Издательство: Eksmo
+Год издания: 2010
+Количество страниц: 736
+
+
+Контейнер, в который копирован исходный контейнер(list):
+Автор: Leo Nikolaevich Tolstoy
+Название:  War and Peace
+Издательство: Eksmo
+Год издания: 2010
+Количество страниц: 736
+
+Автор: Fyodor Mikhailovich Dostoevsky
+Название:  Crime and Punishment
+Издательство: ACT
+Год издания: 2021
+Количество страниц: 544
+
+Автор: Alexander Sergeevich Pushkin
+Название: Eugene Onegin
+Издательство: Myth
+Год издания: 2023
+Количество страниц: 288
+
+
+Контейнер set:
+Автор: Leo Nikolaevich Tolstoy
+Название:  War and Peace
+Издательство: Eksmo
+Год издания: 2010
+Количество страниц: 736
+
+Автор: Alexander Sergeevich Pushkin
+Название: Eugene Onegin
+Издательство: Myth
+Год издания: 2023
+Количество страниц: 288
+
+Автор: Fyodor Mikhailovich Dostoevsky
+Название:  Crime and Punishment
+Издательство: ACT
+Год издания: 2021
+Количество страниц: 544
+
+Контейнер unordered_set:
+Автор: Leo Nikolaevich Tolstoy
+Название:  War and Peace
+Издательство: Eksmo
+Год издания: 2010
+Количество страниц: 736
+
+Автор: Fyodor Mikhailovich Dostoevsky
+Название:  Crime and Punishment
+Издательство: ACT
+Год издания: 2021
+Количество страниц: 544
+
+Автор: Alexander Sergeevich Pushkin
+Название: Eugene Onegin
+Издательство: Myth
+Год издания: 2023
+Количество страниц: 288
+
